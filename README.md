@@ -7,6 +7,9 @@ The project aims to monitor key performance indicators—such as sales, revenue,
 - Identify high-value customers
 ## Software
 - Power BI
+
+### Tools & Technologies
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
   
 One visualization that is almost always used in most dashboards is the **CARD**. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
 
