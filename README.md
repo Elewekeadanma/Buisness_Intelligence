@@ -5,3 +5,4 @@ Track KPIs,
 Compare regional performance, 
 Analyze product level trends, 
 Identify high-value customers
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/8fd330db-4315-4e20-913a-431c97720e40" />
