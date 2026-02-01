@@ -6,6 +6,17 @@ Compare regional performance,
 Analyze product level trends, 
 Identify high-value customers
 
+One visualization that is almost always used in most dashboards is the Card. Below there are 4 cards in the image
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a17b5d1-612d-47d8-b8bb-c9a638a7ca6f" />
+
+
+
+
+gives an overall view
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3a62a7c3-2123-4bd5-89ac-450cba42639c" />
+
+
 <img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/8fd330db-4315-4e20-913a-431c97720e40" />
                                                                                                                                                                                   
 From the image, we can see that the Monthly Revenue KPI card shows that the current month's revenue surpassed last month's revenue by 33%.
