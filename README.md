@@ -6,7 +6,7 @@ Compare regional performance,
 Analyze product level trends, 
 Identify high-value customers
 
-One visualization that is almost always used in most dashboards is the Card. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
+One visualization that is almost always used in most dashboards is the CARD. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a17b5d1-612d-47d8-b8bb-c9a638a7ca6f" />
 
@@ -26,23 +26,23 @@ A matrix visual in Power BI is designed to display data in a structured, pivotâ€
 Looking at the highlighted Matrix, the formatting in the Orders bars shows the relative differences in the number of orders for each product and thus we can decide which product we hould make sure is always available. For the Return rate bar, the highest values had a very red color to highlight the bad ones.
 Also, using the Top N filter, the matrix showed only the Top 10 highest orders sold, with Water Bottles at the top.
 
-A donut visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
+A DONUT visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
 Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
 The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the textbox and table.
 
+A MAP visual in Power BI is designed to show data in a geographic context, making it easy to understand how metrics vary across locations. The map visual, in this case was used to visualize data by continent and country and to compare performance across regions.
 
-The following images are map visuals to show orders by geographical locations.
+
+This image shows all the geographical locations, bubble size indicating the number of orders for each region.
 <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
 
-
-This image shows all the geographical locartions, bubble size indicating the number of orders for each region.
-The second image shows Europe and countries in Europe with their corresponding total number of orders, United Kingdom having a total of 2771 orders.
+The second map visual shows Europe and countries in Europe with their corresponding total number of orders, United Kingdom having a total of 2771 orders.
 
 <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/efc472fc-96ad-4205-bba7-c6441d9c3a4b" />
 
-Another image in Power Bi is Guage charts. Shown below are guage charts.
+Another visualization in Power Bi is GUAGE charts. Shown below are guage charts.
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3272da38-fc0f-4b33-94c4-d8fd628fe6f6" />
 The chart tells us that we are yet to hit our Monthly targets and Monthly Revenue for Bike Wash - Dissolver even though the Monthly Profit has been met. The unmet targets are shown in red while the met target is shown in black.
 
