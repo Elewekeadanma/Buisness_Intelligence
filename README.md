@@ -30,7 +30,7 @@ A donut visual in Power BI is designed to show how a whole is divided into parts
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
 Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
-The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the card and table.
+The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the textbox and table.
 
 
 The following images are map visuals to show orders by geographical locations.
