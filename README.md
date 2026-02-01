@@ -12,8 +12,6 @@ One visualization that is almost always used in most dashboards is the Card. The
 One shows the revenue, the second, the Total Profit, the third, the total Orders and the fourth, the Return Rate.
 
 
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3a62a7c3-2123-4bd5-89ac-450cba42639c" />
-
 
 <img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/8fd330db-4315-4e20-913a-431c97720e40" />
                                                                                                                                                                                   
