@@ -15,3 +15,6 @@ Total orders however reduced from 2165 to 2146 and that is why it is red. The re
 
 Looking at the highlighted Matrix, the formatting in the Orders bars shows the relative differences in the number of orders for each product and thus we can decide which product we hould make sure is always available. For the Return rate bar, the highest values had a very red color to highlight the bad ones.
 Also, using the Top N filter, the matrix showed only the Top 10 highest orders sold, with Water Bottles at the top.
+
+<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/3466464e-8ba7-417f-bfeb-c0fcd9a468d3" />
+The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the card and table. Using the donut charts beside the table, we can find the top customers based on Income level and Occupation.
