@@ -17,8 +17,9 @@ One shows the revenue, the second, the Total Profit, the third, the total Orders
 
 Another visualization is the **KPI** card. It is designed to instantly communicate performance against a target, making it one of the most effective visuals for executive‑level dashboards.
 
-<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/8fd330db-4315-4e20-913a-431c97720e40" />
-                                                                                                                                                                                  
+<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/327260c3-6f51-4a25-8e0d-7369a9cc9e82" />
+
+                                                                                                                                                                          
 From the image, we can see that the Monthly Revenue KPI card shows that the current month's revenue surpassed last month's revenue by 3.31%.
 Total orders however reduced from 2165 to 2146 and that is why it is red. The returns was also good, it reduced from 169 to 166.
 
